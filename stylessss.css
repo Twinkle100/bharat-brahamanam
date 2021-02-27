@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("https://cdn1.vectorstock.com/i/1000x1000/61/00/big-happy-indian-family-in-national-dress-vector-25956100.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:"cursive";
+
+}
+.bha{
+    width: 500px;
+    margin-left: 35%;
+    font-size: 50px;
+    margin-top: 20px;
+    text-align:center;
+    font-family: 'Pacifico', 'cursive';
+    font-weight: bold;
+    background: linear-gradient(to right,purple,blue,#ffeb07,brown,rgb(252, 36, 72),purple);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+form{
+    height:500px;
+    width:600px;
+    margin-top:80px;
+    margin-left:400px;
+    transform: translate(-0%,-0%);
+    background: rgba(255,255,255,0.2);
+    box-shadow: 0px 4px 16px rgba(0,0,0,0.5);
+}
+.form-label{
+    font-size: 15px;
+    font-family: cursive;
+    
+}
+#ControlInput1{
+   size: 30px;
+}
+.btn{
+    margin-left: 120px;
+}
+
+

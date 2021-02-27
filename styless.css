@@ -1,0 +1,93 @@
+body{
+   background-image: url("https://img2.pngio.com/free-png-taj-mahal-konfest-tourism-in-india-png-908_849.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+label{
+  color:black;
+}
+.bha{
+font-size:3rem;
+width: 500px;
+text-align: center;
+background: linear-gradient( to right,blue,#ffeb07,rgb(28, 197, 240),green,brown,rgb(252, 36, 72),purple);
+-webkit-text-fill-color: transparent;
+transform: translate(-10%,10%);
+background-clip: text;
+}
+.formbox{
+  margin-top: 50px;
+  width:40%;
+  margin-left: 30%;
+  transform: translate(-0%,-0%);
+  background: rgba(255,255,255,0.2);
+  box-shadow: 0px 4px 16px rgba(0,0,0,0.5);
+}
+.top{
+  font-family: 'Pacifico', "cursive";
+  font-size: 2.5rem;
+  width:20%;
+  margin-left: 40%;
+  text-align: center;
+}
+.form-control{
+  transform: translate(-0%,-0%);
+  background: rgba(255,255,255,0.2);
+  box-shadow: 0px 4px 16px rgba(0,0,0,0.5);
+}
+.gender{
+  color:green;
+  margin-left:10px;
+  font-family: 'Pacifico', "cursive";
+  font-size: 17px;
+}
+.labelphone{
+margin-left:3px;
+margin-top:-10px;
+}
+#inlineFormCustomSelect{
+ height:25%;
+  width:520px;
+}
+#phone{
+margin-top:10px;
+  height:33px;
+  width:300px;
+  transform: translate(-0%,-0%);
+  background: rgba(255,255,255,0.2);
+  box-shadow: 0px 4px 16px rgba(0,0,0,0.5);
+}
+.submit{
+    width:25%;
+    color:green;
+    margin-left: 70px;
+    border: 2px solid rgb(9, 110, 150);
+    font-family: 'Pacifico', "cursive";
+}
+.submit:hover{
+  color: #03506f;
+  background-color: #14e6aa;
+  border: rgb(55, 189, 241) 2px solid;
+}
+.cancel{
+    width:25%;
+    color: green;
+    margin-left:70px;
+    border: 2px solid rgb(9, 110, 150);
+    font-family: 'Pacifico', "cursive";
+  }
+  .cancel:hover{
+    color: #03506f;
+    background-color: #14e6aa;
+    border: rgb(55, 189, 241) 2px solid;
+  }
+.footerf{
+  margin-top: auto;
+}
+.formheading{
+  font-size: 2.5rem;
+  text-align: center;
+ background-image: linear-gradient(to top,yellow,green);
+ -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
