@@ -6,7 +6,7 @@ body{
 }
 .header{
     margin-top: 35px;
-    background: linear-gradient( to right,blue,#ffeb07,rgb(28, 197, 240),green,brown,rgb(252, 36, 72),purple);
+    
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
