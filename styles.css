@@ -7,8 +7,7 @@ body{
 .header{
     margin-top: 35px;
     
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+   
 }
 #h4{
     font-size: 40px;
